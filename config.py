@@ -71,8 +71,8 @@ STRING5 = getenv("STRING_SESSION5")
 # ── Media assets ───────────────────────────────────────────────────────────────
 START_VIDS = [
     "https://telegra.ph/file/9b7e1b820c72a14d90be7.mp4",
-    "https://telegra.ph/file/72f349b1386d6d9374a38.mp4",
-    "https://telegra.ph/file/a4d90b0cb759b67d68644.mp4",
+    "http://fi-le-stream-but-kumarmanish21.koyeb.app/12431/t5i-FFf6f5M_top.mp4?hash=AgADXp",
+    "http://fi-le-stream-but-kumarmanish21.koyeb.app/12433/QMD9qrU7SYPUTr9KMtLn%2Bx-6j0lmiE8g.mp4?hash=AgADf5",
 ]
 STICKERS = [
     "CAACAgUAAx0Cd6nKUAACASBl_rnalOle6g7qS-ry-aZ1ZpVEnwACgg8AAizLEFfI5wfykoCR4h4E",
@@ -83,10 +83,10 @@ PING_VID_URL = "https://files.catbox.moe/3ivvgo.mp4"
 PLAYLIST_IMG_URL = "https://i.ibb.co/VYdN4dxj/x.jpg"
 STATS_VID_URL = "https://telegra.ph/file/e2ab6106ace2e95862372.mp4"
 TELEGRAM_AUDIO_URL = "https://i.ibb.co/DdxGHvt/x.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/tiss2b.jpg"
-STREAM_IMG_URL = "https://files.catbox.moe/1d3da7.jpg"
-SOUNCLOUD_IMG_URL = "https://files.catbox.moe/zhymxl.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/veykzq.jpg"
+TELEGRAM_VIDEO_URL = "https://i.ibb.co/Mxt6Tw95/x.jpg"
+STREAM_IMG_URL = "https://i.ibb.co/8gMnmCds/x.jpg"
+SOUNCLOUD_IMG_URL = "https://i.ibb.co/M5NmP2Tf/x.jpg"
+YOUTUBE_IMG_URL = "https://i.ibb.co/r2ym4czC/x.jpg"
 SPOTIFY_ARTIST_IMG_URL = SPOTIFY_ALBUM_IMG_URL = SPOTIFY_PLAYLIST_IMG_URL = YOUTUBE_IMG_URL
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
