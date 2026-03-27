@@ -14,13 +14,13 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 
 OWNER_ID = int(getenv("OWNER_ID", 5748100919))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Hindustani_Ladka00")
-BOT_USERNAME = getenv("BOT_USERNAME", "AnyaX_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME", "AnyaXMusicsbot")
 BOT_NAME = getenv("BOT_NAME", "˹𝐀ɴʏᴀ ✘ 𝙼ᴜsɪᴄ˼ ♪")
-ASSUSERNAME = getenv("ASSUSERNAME", "ll_ishuxd_ll")
+ASSUSERNAME = getenv("ASSUSERNAME", "lehtersa")
 
 # ── Database & logging ─────────────────────────────────────────────────────────
 MONGO_DB_URI = getenv("MONGO_DB_URI")
-LOGGER_ID = int(getenv("LOGGER_ID", -5264115011))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002955462034))
 
 # ── Limits (durations in min/sec; sizes in bytes) ──────────────────────────────
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
